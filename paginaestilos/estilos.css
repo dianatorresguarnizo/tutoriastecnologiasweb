@@ -1,0 +1,62 @@
+/*Estilos de Etiqueta*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    
+}
+header {
+    background-color: #0d275c;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+nav {
+    bottom: #0059b3;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    color: #505358;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #530f70;
+    font-size: 2em;
+    text-decoration: underline;
+}
+main {
+    padding: 1rem;
+}
+
+section {
+    background-color: #238eb9;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #677074;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.foto {
+    width: 30%;
+}
